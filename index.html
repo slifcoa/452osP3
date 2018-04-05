@@ -1,0 +1,141 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="apple-touch-icon" href="icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/bootExtra.css">
+
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+
+    </head>
+    <body>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <!--<p>Hello world! This is HTML5 Boilerplate.</p>-->
+        <div class="page-header'>">
+            <h1 align="center">Memory Management Simulation</h1>
+        </div>
+        <div id="app" class="container">
+        <div id="topApp">
+
+            <div style="float: right">
+                <!--PHYSICAL MEMORY TABLE-->
+                <table class="table table-bordered table table-striped">
+                    <thead class="thead-dark">
+                    <h3>Physical Memory</h3>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <th>Frame 0</th>
+                        <td id="frame0"></td>
+                    </tr>
+                    <tr>
+                        <th>Frame 1</th>
+                        <td id="frame1"></td>
+                    </tr>
+                    <tr>
+                        <th>Frame 2</th>
+                        <td id="frame2"></td>
+                    </tr>
+                    <tr>
+                        <th>Frame 3</th>
+                        <td id="frame3"></td>
+                    </tr>
+                    <tr>
+                        <th>Frame 4</th>
+                        <td id="frame4"></td>
+                    </tr>
+                    <tr>
+                        <th>Frame 5</th>
+                        <td id="frame5"></td>
+                    </tr>
+                    <tr>
+                        <th>Frame 6</th>
+                        <td id="frame6"></td>
+                    </tr>
+                    <tr>
+                        <th>Frame 7</th>
+                        <td id="frame7"></td>
+                    </tr>
+                    </tbody>
+                </table>
+                <div style="text-align: center">
+                    <span class="btn btn-primary" id="startButton" onclick="hitNext(commandCounter)">Start</span>
+                </div>
+            </div>
+            <div style="float: left">
+
+                <!--COMMANDS TABLE-->
+                <table class="table table-bordered table table-striped" id="commandsTable">
+                    <thead class="thead-dark">
+                    <h3>Commands</h3>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="bottomApp" class="fixed-bottom">
+
+            <!--PAGE TABLES LIST-->
+            <table class="table table-hover-cells" bgcolor="#f0f8ff">
+                <thead class="thead-dark">
+                <h3 align="center">Current Page Tables</h3>
+                </thead>
+                <tbody>
+                <tr id="pageTableList"></tr>
+                </tbody>
+            </table>
+        </div>
+       </div>
+
+        <div id="processPageTableDIV" class="container" style="display: none">
+
+            <!--PROCESS PAGE TABLES-->
+            <table class="table table-striped" id="pageTableProcess">
+                <thead class="thead-dark">
+                <h3 id="processPageTableHeader" align="center"></h3>
+                    <tr>
+                        <th>Type</th>
+                        <th>Page#</th>
+                        <th>Frame#</th>
+                    </tr>
+                </thead>
+                <tbody id="pageTableProcessBody">
+                </tbody>
+            </table>
+            <div style="text-align: center">
+            <span class="btn btn-primary" id="closeButton"  onclick="hitClose()">Close</span>
+            </div>
+        </div>
+    </body>
+</html>
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+        <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+        <script>
+            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+            ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
+        </script>
+        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+
