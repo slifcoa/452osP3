@@ -1,3 +1,5 @@
+//Operating Systems Project 3 Javascript Source Code
+//Done by Adam Slifco
 
 //Global Variables, used throughout the program
 var commandCounter = 0;

@@ -1,45 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="610bd7d2-b506-4720-8e09-952543a445a0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/.idea/untitled.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/browserconfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/css/bootExtra.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/css/normalize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/data/input3a.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/data/input3b.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/data/input3c.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/TOC.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/css.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/extend.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/faq.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/html.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/js.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/misc.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/doc/usage.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/humans.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/img/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/js/plugins.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/js/vendor/jquery-3.2.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/js/vendor/modernizr-3.5.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/pagetable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/site.webmanifest" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/tile-wide.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../OS/untitled/tile.png" />
+    <list default="true" id="610bd7d2-b506-4720-8e09-952543a445a0" name="Default" comment="initial commit. project done">
+      <change beforePath="$PROJECT_DIR$/../../OS/untitled/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../OS/untitled/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../../OS/untitled/index.html" afterPath="$PROJECT_DIR$/../../OS/untitled/index.html" />
+      <change beforePath="$PROJECT_DIR$/../../OS/untitled/js/main.js" afterPath="$PROJECT_DIR$/../../OS/untitled/js/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../OS/untitled/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="87" column="24" lean-forward="true" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -80,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/../../OS/untitled/data/input3c.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -99,8 +64,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../OS/untitled/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="236" column="40" lean-forward="true" selection-start-line="236" selection-start-column="40" selection-end-line="236" selection-end-column="40" />
+            <state relative-caret-position="0">
+              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -127,8 +92,20 @@
       <replace>processTermination</replace>
     </replaceStrings>
   </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="git remote add origin https://github.com/slifcoa/452osP3.git" />
+      <command text="git push -u origin master" />
+      <command text="git push -u origin" />
+      <command text="    git push --set-upstream origin master " />
+    </commandsHistory>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../OS/untitled" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,8 +116,8 @@
         <option value="$PROJECT_DIR$/../../OS/untitled/data/input3b.txt" />
         <option value="$PROJECT_DIR$/../../OS/untitled/data/input3c.txt" />
         <option value="$PROJECT_DIR$/../../OS/untitled/pagetable.html" />
-        <option value="$PROJECT_DIR$/../../OS/untitled/js/main.js" />
         <option value="$PROJECT_DIR$/../../OS/untitled/index.html" />
+        <option value="$PROJECT_DIR$/../../OS/untitled/js/main.js" />
       </list>
     </option>
   </component>
@@ -240,26 +217,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522866642713</updated>
-      <workItem from="1522866645771" duration="36319000" />
+      <workItem from="1522866645771" duration="37176000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit. project done">
+      <created>1522951092668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522951092668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36319000" />
+    <option name="totallyTimeSpent" value="37176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="880" height="812" extended-state="0" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20568182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20568182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -276,6 +262,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit. project done" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit. project done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -351,15 +341,15 @@
     <entry file="file://$PROJECT_DIR$/../../OS/untitled/data/input3c.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../OS/untitled/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="87" column="24" lean-forward="true" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -372,8 +362,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../OS/untitled/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="236" column="40" lean-forward="true" selection-start-line="236" selection-start-column="40" selection-end-line="236" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
           <folding />
         </state>
       </provider>
